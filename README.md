@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning <br>- React Framework<br>- Javascript<br>- Python<br><br>💬 Ask me on my Gmail which is danfredmartinisip@gmail.com<br>⚡ Fun fact be is there is no fun in me :D
+🌱 I’m currently learning <br>- React Framework<br>- Javascript<br>- Python<br><br>💬 Ask me anything on my Gmail account: danfredmartinisip@gmail.com<br>⚡ Fun fact be is there is no fun in me :D
 
 
 ## 🌐 Socials:
